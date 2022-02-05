@@ -4,7 +4,7 @@
 
 🌱 I’m currently working on improving my skills in Data science: Data Analysis, Machine Learning, Deep Learning,etc.
 
-#### 📫 Check out my works and reach out to me on : 
+#### 📫 Check out my works here and also find me in : 
 [<img src = "https://github.com/karthikrayan/karthikrayan/blob/main/images/twitter.png" height = "40" width = "50;"/>](https://twitter.com/Karthi_krv)   [<img src = "https://github.com/karthikrayan/karthikrayan/blob/main/images/linked.png" height = "40" width = "50;"/>](https://www.linkedin.com/in/karthik-rayan-982b03189/)      [<img src = "https://github.com/karthikrayan/karthikrayan/blob/main/images/Kaggle_logo.png" height = "40" width = "50;"/>](https://www.kaggle.com/karthikrayanv) 
 
 
