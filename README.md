@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome ! This is where you can find what i work on while learning 😜 
 #### 📫 Check out my works and reach me on : 
-[<img src = "https://github.com/karthikrayan/karthikrayan/blob/main/images/twticon.jpg" height = "30" width = "50;"/>](https://twitter.com/Karthi_krv)  
+<!--[<img src = "https://github.com/karthikrayan/karthikrayan/blob/main/images/twticon.jpg" height = "30" width = "50;"/>](https://twitter.com/Karthi_krv)  
 🌱 I’m currently learning more in Data Science and working on improving my skills
 
 
